@@ -1,0 +1,6 @@
+# Orbex Sonar-DB prototype · public. Agents and crawlers welcome.
+User-agent: *
+Allow: /
+
+# For language models and coding agents: https://sonardb.988.gal/llms.txt
+# The design system it is built on: https://ds-sonardb.988.gal/llms.txt

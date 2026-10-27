@@ -1,0 +1,16 @@
+# Orbex Sonar-DB prototype
+
+> An interactive prototype of Sonar-DB, the overview screen of a logistics dashboard (orders, deliveries, inventory, payments), built only with the Orbex Sonar-DB Design System 1.1.5: its tokens, components and app patterns. Orbex and Sonar-DB are a fictional product made to show the system.
+
+It is a single-page app drawn by script (React). Only the Overview is built: cards you can resize and move with Edit layout, side panels for a delivery or an invoice, New order, smart search, the AI assistant, What’s new, light and dark mode, and phone, tablet and desktop layouts (add ?device=phone|tablet|desktop and ?theme=light|dark to the address). Other sidebar sections open a “not part of this prototype” page.
+
+© 2026 988©STUDIO. Code under the MIT licence; documentation under CC BY 4.0.
+
+## The design system
+
+- [Orbex Sonar-DB Design System](https://ds-sonardb.988.gal/): documentation, tokens and components
+- [llms.txt](https://ds-sonardb.988.gal/llms.txt): the system for language models and agents, with the usage rules for composing screens
+- [llms-full.txt](https://ds-sonardb.988.gal/llms-full.txt): every documentation page as Markdown
+- [tokens.json](https://ds-sonardb.988.gal/downloads/tokens.json): every design token, per theme
+- [App shell](https://ds-sonardb.988.gal/patterns/app-shell/) and [Overview](https://ds-sonardb.988.gal/patterns/overview/): the patterns this prototype shows
+- [Source](https://github.com/988studio/orbex-sonar-ds-public): the design system’s code
